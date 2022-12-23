@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Description about the second-highest TV set price">
+
+    <test name="Second-highest TV set">
+        <classes>
+            <class name="AmazonTest"/>
+        </classes>
+    </test>
+
+</suite>
